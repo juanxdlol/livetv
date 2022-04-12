@@ -1,2 +1,2 @@
 # livetv
-este es un ejemplo de como subir una pagina web html a github
+este es un ejemplo:https://juanxdlol.github.io/livetv/
